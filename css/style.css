@@ -1,0 +1,35 @@
+body{
+    background-color: #ECEFF1;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #1E3A8A;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 13pt;
+    text-align: justify;
+}
+li{
+    margin-top: 10px;
+}
+img{
+    width: 250px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+thead { 
+    background-color: #262626;
+    color: white;
+}
+.hobbie{
+    width: 500px;
+    height: auto;
+}
+a:hover{
+    color: orange;
+}
